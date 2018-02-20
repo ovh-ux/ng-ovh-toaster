@@ -37,6 +37,6 @@
     "matchdep": "^0.3.0"
   },
   "dependencies": {
-    "jasmine-core": "^2.6.4"
+    "jasmine-core": "^3.0.0"
   }
 }
